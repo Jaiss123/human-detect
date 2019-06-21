@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/1/8 13:07:46。
+     1>项目“E:\任士博\毕业设计 任\PeopleDetectionAndTracking-master\PeopleDetectionAndTracking\PeopleDetectionAndTracking\PeopleDetectionAndTracking.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\任士博\毕业设计 任\PeopleDetectionAndTracking-master\PeopleDetectionAndTracking\x64\Debug\PeopleDetectionAndTracking.exe" /INCREMENTAL /NOLOGO opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\任士博\毕业设计 任\PeopleDetectionAndTracking-master\PeopleDetectionAndTracking\x64\Debug\PeopleDetectionAndTracking.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\任士博\毕业设计 任\PeopleDetectionAndTracking-master\PeopleDetectionAndTracking\x64\Debug\PeopleDetectionAndTracking.lib" /MACHINE:X64 x64\Debug\Cblob3.obj
+         x64\Debug\CColorAly.obj
+         x64\Debug\CImgproc.obj
+         x64\Debug\DetectionDef.obj
+         x64\Debug\dllmain.obj
+         x64\Debug\ObjectAndKF.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\testNew.obj
+         x64\Debug\VideoProcessor.obj
+         PeopleDetectionAndTracking.vcxproj -> E:\任士博\毕业设计 任\PeopleDetectionAndTracking-master\PeopleDetectionAndTracking\x64\Debug\PeopleDetectionAndTracking.exe
+     1>已完成生成项目“E:\任士博\毕业设计 任\PeopleDetectionAndTracking-master\PeopleDetectionAndTracking\PeopleDetectionAndTracking\PeopleDetectionAndTracking.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.66
